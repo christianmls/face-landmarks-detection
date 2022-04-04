@@ -16,6 +16,3 @@ tslint.json
 yarn.lock
 yalc.lock
 cloudbuild.yml
-dist/*_test.js
-dist/*_test.js.map
-dist/test_util*
